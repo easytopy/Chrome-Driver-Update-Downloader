@@ -4,7 +4,7 @@ from selenium.webdriver.chrome.service import Service
 from webdriver_manager.chrome import ChromeDriverManager
 
 # 원하는 설치 경로 설정
-custom_driver_folder = "C:/Users/User/Desktop/BloxManager/Bot/BloxManager"
+custom_driver_folder = "C:/Users/User/Desktop/"
 
 # 크롬드라이버 설치
 driver_path = ChromeDriverManager().install()
